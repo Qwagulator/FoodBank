@@ -1,4 +1,4 @@
-cryptonote-generator
+FoodBank Series 1
 ==================
 
 A python / bash Cryptonote source creator. Generate and compile new or maintain old code with a single command. 
